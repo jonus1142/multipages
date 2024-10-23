@@ -1,0 +1,29 @@
+.timer-container{
+    border: 1px solid;
+    border-radius: 0.5rem;
+    margin-bottom: 0.5rem;
+    padding: 0 0.5rem 0.5rem 0.5rem;
+    background-color: lightcyan;
+}
+
+.btn-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.timer-title{
+    text-align: center;
+    font-weight: bold;
+    color : blue;
+}
+
+.timer-display{
+    border: 1px solid;
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.5rem;
+    width: 13rem;
+}

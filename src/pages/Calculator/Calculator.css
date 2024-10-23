@@ -1,0 +1,41 @@
+button{
+    width: 50px;
+    height: 40px;
+}
+
+/* number */
+button.number{
+    background-color: aqua;
+}
+button.number:hover{
+    background-color: blue;
+}
+button.number:active{
+    background-color: lime;
+}
+button.numberActive{
+    background-color: lime;
+}
+
+/* operator */
+button.operator{
+    background-color: yellow;
+}
+button.operator:active{
+    background-color: orange;
+}
+
+button.clr{
+    background-color: #cf4646;
+}
+button.clr:active{
+    background-color: lightblue;
+}
+
+input#display{
+    width: 97%;
+    height: 30px;
+    text-align: right;
+    background-color: black;
+    color: orange;
+}

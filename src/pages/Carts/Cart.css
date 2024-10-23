@@ -1,0 +1,23 @@
+.cart-container{
+    border: 1px solid ;
+    text-align: center;
+    margin: auto;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    margin-top: 1rem;
+    /* display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    overflow-y: auto;
+    grid-row-gap: 2rem;
+    grid-column-gap: 2rem; */
+    /* align-items: start; */
+}
+
+.carts-items-container{
+    display: grid;
+    height: 500px;
+    grid-template-columns: repeat(4, 1fr);
+    overflow-y: auto;
+    grid-row-gap: 2rem;
+    grid-column-gap: 2rem;
+}

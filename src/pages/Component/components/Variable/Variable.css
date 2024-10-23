@@ -1,0 +1,35 @@
+.vcontainer{
+    background-color: lightblue;
+    border-radius: 10px;
+    padding: 0.5rem;
+    width: 100%;
+    margin: auto;
+}
+
+.vcontainer-container{
+    background-color: lightblue;
+    margin-bottom: 10px;
+    border: 1px solid;
+    border-radius: 10px;
+    padding: 0.5rem;
+}
+
+.count{
+    font-size: 1.5rem;
+    font-weight: bold; 
+}
+
+/* .button{
+    padding: 10px 20px;
+    font-size: 20px;
+} */
+
+.value{
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin: 0 0.5rem;
+}
+
+.title{
+    color: brown;
+}
